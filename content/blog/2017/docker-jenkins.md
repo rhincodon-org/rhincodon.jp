@@ -159,6 +159,6 @@ sdkman関連のコマンドを有効化するため、sdkman-init.shを実行す
 出力先のディレクトリに書き込み権限がないと失敗するので、設定する。
 
 ビルドトリガとして、githubにpushしたタイミングでビルドが動くように、github側の設定で、
-「Settings」ー＞「WebHook」ー＞「Jenkins(GitHub Plugin)」
+「Settings」ー＞「integrated&Service」ー＞「Jenkins(GitHub Plugin)」
 で、対向のJenkinsのURLを設定する。
 
