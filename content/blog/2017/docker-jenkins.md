@@ -17,6 +17,7 @@ CentOS7ベース
 
 * bash
 * firewalld
+" ssh
 * httpd
 * git
 * docker
