@@ -1,4 +1,4 @@
-title=githubにあるサイトのコードをDockerのJenkinsさんで定期更新
+title=githubにあるjBakeコードをDockerのJenkinsさんで定期更新
 date=2017-08-04
 type=post
 tags=blog
@@ -30,11 +30,10 @@ CentOS7ベース
 * ホストにgitインストール
 * ホストにjbakeのインストール
 * ホストにdockerのjenkinsイメージをpullしてコンテナ起動
-* jenkinsのセキュリティ設定
-* コンテナのJenkinsのスレーブとしてホストを登録
-* jenkinsでサイトのビルド・デプロイ用のJobを作る
 * httpdでリバースプロキシ設定
 * firewalldで80のポート開ける
+* コンテナのJenkinsのスレーブとしてホストを登録
+* jenkinsでサイトのビルド・デプロイ用のJobを作る
 
 ## ホストにhttpdインストールと起動
 
