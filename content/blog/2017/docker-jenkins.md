@@ -145,6 +145,7 @@ ssh -l hogehogeslave 172.17.0.1
 「新たしいジョブ作成」ー＞「フリースタイルのプロジェクト」
 実行するノードを制限：スレーブのラベル名
 ソースコード管理：Git
+ビルド・トリガ：GitHub hook trigger for GITScm polling
 ビルド：シェルの実行を追加
 
 ```
@@ -157,4 +158,7 @@ plantumlで作成しているファイルを画像に変換。
 sdkman関連のコマンドを有効化するため、sdkman-init.shを実行する。
 出力先のディレクトリに書き込み権限がないと失敗するので、設定する。
 
+ビルドトリガとして、githubにpushしたタイミングでビルドが動くように、github側の設定で、
+「Settings」ー＞「WebHook」ー＞「Jenkins(GitHub Plugin)」
+で、対向のJenkinsのURLを設定する。
 
