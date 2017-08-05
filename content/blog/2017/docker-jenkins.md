@@ -148,7 +148,7 @@ ssh -l hogehogeslave 172.17.0.1
 ビルド：シェルの実行を追加
 
 ```
-ls assets/img | grep .uml$ | xargs -Ixxx plantuml -o assets/img xxx
+ls assets/img | grep .uml$ | xargs -Ixxx plantuml xxx
 source "/home/hogehogeslave/.sdkman/bin/sdkman-init.sh"
 jbake -b . /var/www/hogehogesite
 ```
