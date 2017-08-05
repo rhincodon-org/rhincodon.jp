@@ -38,6 +38,7 @@
                 <li><a href="#">One more separated link</a></li>
               </ul>
             </li>
+            <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
             <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
           </ul>
         </div><!--/.nav-collapse -->
