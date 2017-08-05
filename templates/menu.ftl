@@ -17,28 +17,36 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a target="_blank" href="">rhincodon.org</a></li>
-                <li><a target="_blank" href="">rhincodon.jp</a></li>
-                <li><a target="_blank" href="">rhincodon.biz</a></li>
+                <li><a target="_blank" href="http://rhincodon.org">rhincodon.org</a></li>
+                <li><a target="_blank" href="http://rhincodon.jp">rhincodon.jp</a></li>
+                <li><a target="_blank" href="http://rhincodon.biz">rhincodon.biz</a></li>
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">DevEnv <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
-                <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
-                <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
+                <li><a target="_blank" href="https://www.mindmeister.com/">MindMeister</a></li>
+                <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
+                <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
+                <li><a target="_blank" href=""></a></li>
+                <li><a target="_blank" href=""></a></li>
               </ul>
             </li>
-            <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
-            <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
-            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a target="_blank" href=""></a></li>
                 <li><a target="_blank" href=""></a></li>
                 <li><a target="_blank" href=""></a></li>
+              </ul>
+            </li>
+            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
+                <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
+                <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
               </ul>
             </li>
           </ul>
