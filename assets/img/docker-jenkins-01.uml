@@ -1,0 +1,86 @@
+@startuml
+left to right direction
+skinparam monochrome true
+
+actor "サイト見る人" as user
+actor "自分" as servicer
+
+frame client {
+  component browser
+}
+frame management {
+  component sshClient
+}
+cloud github {
+  database repository {
+    folder jbakeProject {
+      file md
+    }
+  }
+}
+cloud dockerhub {
+  database registory {
+    file imageJenkins
+  }
+}
+frame host {
+  component httpd
+  component firewalld
+  component ssh
+  component jbake
+  component git
+  component docker
+  component bash as shell
+  database repository as repositoryLocal {
+    folder jbake as jbakeProjectLocal {
+      file md as mdLocal
+    }
+  }
+  database registory as registoryLocal {
+    file imageJenkins as imageJenkinsLocal
+  }
+  folder www {
+    file html
+  }
+  agent agent
+  frame container {
+    component jenkins {
+      actor "Jenkinsの中の人" as runner
+    }
+    interface 50000 as jenkins50000
+    interface 8080 as jenkins8080
+  }
+  interface 50000 as host50000
+  interface 8080 as host8080
+  interface 80 as host80
+  interface 22 as host22
+}
+user -- browser
+browser -(0- firewalld 
+
+servicer ..> sshClient
+sshClient ..> ssh
+shell ..> docker
+repository -0)- git
+registory -0)- docker
+docker --# registoryLocal
+docker --# container
+agent ..> shell 
+shell ..> git
+git --# repositoryLocal
+jbake -- jbakeProjectLocal
+firewalld --( host80
+host80 -- httpd
+httpd -- www
+www #-- jbake
+jbake <.. shell
+httpd --( host8080
+ssh -- host22
+shell <.. ssh
+agent <..( host50000
+host8080 -- jenkins8080
+host50000 <.. jenkins50000
+jenkins8080 -- jenkins
+jenkins50000 <.. jenkins
+host22 <.. jenkins
+@enduml
