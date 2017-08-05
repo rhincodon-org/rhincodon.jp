@@ -15,31 +15,32 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a target="_blank" href="">rhincodon.org</a></li>
+                <li><a target="_blank" href="">rhincodon.jp</a></li>
+                <li><a target="_blank" href="">rhincodon.biz</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="https://twitter.com/rhincodon_org">twitter</a></li>
-                <li><a href="http://qiita.com/rhincodon-org">Qiita</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
+                <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
+                <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
               </ul>
             </li>
             <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
+            <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
             <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href=""></a></li>
+                <li><a target="_blank" href=""></a></li>
+                <li><a target="_blank" href=""></a></li>
+              </ul>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
