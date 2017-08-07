@@ -6,3 +6,4 @@ status=published
 ~~~~~~
 
 jbakeお試し中
+sample
