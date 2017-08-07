@@ -8,12 +8,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">rhincodon.jp</a>
+          <a class="navbar-brand" href="http://rhincodon.jp">rhincodon.jp</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -28,7 +27,7 @@
                 <li><a target="_blank" href="https://www.mindmeister.com/">MindMeister</a></li>
                 <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
                 <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
-                <li><a target="_blank" href=""></a></li>
+                <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
                 <li><a target="_blank" href=""></a></li>
               </ul>
             </li>
@@ -40,7 +39,6 @@
                 <li><a target="_blank" href=""></a></li>
               </ul>
             </li>
-            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -49,6 +47,8 @@
                 <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
               </ul>
             </li>
+            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
