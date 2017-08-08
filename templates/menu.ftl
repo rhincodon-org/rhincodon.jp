@@ -25,6 +25,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">DevEnv <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="https://www.mindmeister.com/">MindMeister</a></li>
+                <li><a target="_blank" href="https://www.meistertask.com/app/dashboard">MeisterTask</a></li>
                 <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
                 <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
                 <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
@@ -45,10 +46,11 @@
                 <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
                 <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
+                <li><a target="_blank" href="https://plus.google.com/">Google+</a></li>
               </ul>
             </li>
-            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
+            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
