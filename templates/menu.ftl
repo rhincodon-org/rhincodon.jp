@@ -29,15 +29,16 @@
                 <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
                 <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
                 <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
-                <li><a target="_blank" href=""></a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a target="_blank" href=""></a></li>
-                <li><a target="_blank" href=""></a></li>
-                <li><a target="_blank" href=""></a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">GUI</li>
+                <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
+                <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
+                <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
               </ul>
             </li>
             <li class="dropdown">
