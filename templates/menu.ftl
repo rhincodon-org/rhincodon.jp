@@ -39,19 +39,37 @@
                 <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
                 <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
                 <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Hardware</li>
+                <li><a target="_blank" href="https://www.raspberrypi.org">RaspberryPi</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Magazine</li>
+                <li><a target="_blank" href="http://www.oracle.com/technetwork/jp/articles/java/overview/index.html">JacaMagazine</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
+                <li><a target="_blank" href="https://tweetdeck.twitter.com">tweetdeck</a></li>
                 <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
                 <li><a target="_blank" href="https://plus.google.com/">Google+</a></li>
               </ul>
             </li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
-            <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="https://www.freee.co.jp">freee</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
+              </ul>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
