@@ -57,6 +57,13 @@
               </ul>
             </li>
             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mail <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="https://mail.google.com/">Gmail</a></li>
+                <li><a target="_blank" href="https://outlook.live.com/">Hotmail</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
