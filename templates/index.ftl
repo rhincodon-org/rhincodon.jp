@@ -3,7 +3,7 @@
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>Blog</h1>
+		<h1>電子の海の回遊録</h1>
 	</div>
 
 	<p>Older posts are available in the <a href="${content.rootpath}${config.archive_file}">archive</a>.</p>
