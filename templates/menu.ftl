@@ -59,8 +59,15 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mail <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a target="_blank" href="https://mail.google.com/">Gmail</a></li>
                 <li><a target="_blank" href="https://outlook.live.com/">Hotmail</a></li>
+                <li><a target="_blank" href="https://mail.google.com/">Gmail</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Storage <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="https://onedrive.live.com/">OneDrive</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/my-drive">GoogleDrive</a></li>
               </ul>
             </li>
             <li class="dropdown">
