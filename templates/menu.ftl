@@ -28,6 +28,7 @@
                 <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
                 <li><a target="_blank" href="https://plus.google.com/">Google+</a></li>
                 <li><a target="_blank" href="http://mixi.jp/">mixi</a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/">Linkedin</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -57,6 +58,7 @@
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
                 <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
+                <li><a target="_blank" href="https://kdp.amazon.co.jp/ja_JP/">Kindle Direct Publishing</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -72,7 +74,7 @@
                 <li><a target="_blank" href="https://www.raspberrypi.org">RaspberryPi</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Magazine</li>
-                <li><a target="_blank" href="http://www.oracle.com/technetwork/jp/articles/java/overview/index.html">JacaMagazine</a></li>
+                <li><a target="_blank" href="http://www.oracle.com/technetwork/jp/articles/java/overview/index.html">JavaMagazine</a></li>
               </ul>
             </li>
             <li class="dropdown">
