@@ -21,39 +21,13 @@
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">DevEnv <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a target="_blank" href="https://www.mindmeister.com/">MindMeister</a></li>
-                <li><a target="_blank" href="https://www.meistertask.com/app/dashboard">MeisterTask</a></li>
-                <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
-                <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
-                <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li class="divider"></li>
-                <li class="dropdown-header">GUI</li>
-                <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
-                <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
-                <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Hardware</li>
-                <li><a target="_blank" href="https://www.raspberrypi.org">RaspberryPi</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Magazine</li>
-                <li><a target="_blank" href="http://www.oracle.com/technetwork/jp/articles/java/overview/index.html">JacaMagazine</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="https://twitter.com/rhincodon_org">twitter</a></li>
                 <li><a target="_blank" href="https://tweetdeck.twitter.com">tweetdeck</a></li>
-                <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/kota.kawahara.58">FaceBook</a></li>
                 <li><a target="_blank" href="https://plus.google.com/">Google+</a></li>
+                <li><a target="_blank" href="http://mixi.jp/">mixi</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -71,9 +45,34 @@
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Artifacts <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a target="_blank" href="https://www.google.co.jp">Google</a></li>
+                <li><a target="_blank" href="http://qiita.com/rhincodon-org">Qiita</a></li>
+                <li><a target="_blank" href="https://speakerdeck.com">SpeakerDeck</a></li>
+                <li><a target="_blank" href="https://github.com/rhincodon-org">GitHub</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">DevEnv <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
+                <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Manual <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="divider"></li>
+                <li class="dropdown-header">GUI</li>
+                <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
+                <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
+                <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Hardware</li>
+                <li><a target="_blank" href="https://www.raspberrypi.org">RaspberryPi</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Magazine</li>
+                <li><a target="_blank" href="http://www.oracle.com/technetwork/jp/articles/java/overview/index.html">JacaMagazine</a></li>
               </ul>
             </li>
             <li class="dropdown">
