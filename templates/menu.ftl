@@ -67,6 +67,7 @@
                 <li class="divider"></li>
                 <li class="dropdown-header">GUI</li>
                 <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
+                <li><a target="_blank" href="https://bootswatch.com">BootSwatch</a></li>
                 <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
                 <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
                 <li class="dropdown-header">Generator</li>
