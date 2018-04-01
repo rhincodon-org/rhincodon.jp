@@ -69,6 +69,8 @@
                 <li><a target="_blank" href="http://getbootstrap.com">Bootstrap</a></li>
                 <li><a target="_blank" href="https://www.primefaces.org">PrimeFaces</a></li>
                 <li><a target="_blank" href="https://www.bootsfaces.net">BootsFaces</a></li>
+                <li class="dropdown-header">Generator</li>
+                <li><a target="_blank" href="https://jbake.org">JBake</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Hardware</li>
                 <li><a target="_blank" href="https://www.raspberrypi.org">RaspberryPi</a></li>
