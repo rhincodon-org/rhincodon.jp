@@ -101,3 +101,20 @@ T.B.D
 ### ホスト名の設定
 
 T.B.D
+
+Tips
+---
+
+* 共有フォルダを使用する場合は、vboxsfが必要で、VirtualBoxのGuestAdditionsのインストールが必要。
+* 再起動とyum updateが必要
+
+```
+sudo yum groupinstall "Development Tools"
+sudo yum install kernel-devel kernel-headers
+```
+
+### 参考サイト
+
+* http://zero-config.com/centos/virtualbox_guest-additions.html
+* https://qiita.com/SUZUKI_Masaya/items/ac0c9e8eb060f84f25a3
+* https://qiita.com/hiroseabook/items/dc7a9c9ce9e49f15ed45
