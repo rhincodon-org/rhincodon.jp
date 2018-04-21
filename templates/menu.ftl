@@ -58,6 +58,7 @@
               <ul class="dropdown-menu">
                 <li><a target="_blank" href="http://rhincodon.org/jenkins">JenkinsSan</a></li>
                 <li><a target="_blank" href="https://secure.sakura.ad.jp/vps/">SakuraVPS</a></li>
+                <li><a target="_blank" href="https://mackerel.io/signin">Mackerel</a></li>
                 <li><a target="_blank" href="https://kdp.amazon.co.jp/ja_JP/">Kindle Direct Publishing</a></li>
               </ul>
             </li>
