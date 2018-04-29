@@ -1,9 +1,3 @@
-title=Vagrantの調べ物
-date=2018-03-29
-type=post
-tags=blog
-status=published
-~~~~~~
 本家サイト
 --------
 

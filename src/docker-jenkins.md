@@ -1,9 +1,3 @@
-title=githubにあるjBakeコードをDockerのJenkinsさんで定期更新
-date=2017-08-04
-type=post
-tags=blog
-status=published
-~~~~~~
 ## モチベーション
 
 * サイトの更新作業をJenkinsさんにお願いしてラクする。

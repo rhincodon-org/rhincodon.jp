@@ -1,9 +1,3 @@
-title=毎日使うものだから。
-date=2018-03-30
-type=post
-tags=blog
-status=published
-~~~~~~
 Font変えます。
 
 ```

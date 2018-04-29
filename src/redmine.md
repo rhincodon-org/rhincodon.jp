@@ -1,9 +1,3 @@
-title=redmineのdockerインストール
-date=2017-11-08
-type=post
-tags=blog
-status=published
-~~~~~~
 ## dockerでインストール
 
 docker-compose.ymlファイル

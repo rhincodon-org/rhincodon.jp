@@ -1,9 +1,3 @@
-title=Graph-Easyを使ってみる。
-date=2018-03-30
-type=post
-tags=blog
-status=published
-~~~~~~
 アスキーアートで図を描きたかったので、使ってみる。
 
 CPANサイト

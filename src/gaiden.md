@@ -1,9 +1,3 @@
-title=Gaiden使う
-date=2017-08-06
-type=post
-tags=blog
-status=published
-~~~~~~
 ## モチベーション
 
 * 時系列な作業ログは、jBakeさんで書いて、抽象化した情報をGaidenにまとめて、ノウハウ貯めて未来の作業ラクする。

@@ -1,9 +1,3 @@
-title=シェルスクリプトのテンプレートファイル
-date=2017-10-29
-type=post
-tags=blog
-status=published
-~~~~~~
 シェルスクリプトを作成するときのテンプレートファイル。
 
 

@@ -1,9 +1,3 @@
-title=jbakeのbootstrap.cssをbootswatchのcssに変更
-date=2018-04-01
-type=post
-tags=blog
-status=published
-~~~~~~
 jbake2.6.0は、bootstrapv3.1.1を使用しているので、過去の販をダウンロードして差し替え。
 
 ダウンロード

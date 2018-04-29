@@ -1,9 +1,3 @@
-title=docker-ceとdocker-composeインストール手順
-date=2018-04-10
-type=post
-tags=blog
-status=published
-~~~~~~
 インストール
 ---
 
