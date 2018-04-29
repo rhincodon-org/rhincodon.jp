@@ -9,5 +9,6 @@ do
 done
 
 find ./assets/img -type f | grep .uml$ | xargs -Ixxx plantuml xxx
+rm -rf /vara/www/rhincodon.jp/*
 jbake -b . /var/www/rhincodon.jp
 
