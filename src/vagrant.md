@@ -99,7 +99,6 @@ Tips
 ---
 
 * 共有フォルダを使用する場合は、vboxsfが必要で、VirtualBoxのGuestAdditionsのインストールが必要。
-* 
 
 ```
 vagrant plugin install vagrant-vbguest
