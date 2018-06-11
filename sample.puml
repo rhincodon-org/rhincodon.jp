@@ -1,0 +1,14 @@
+@startuml
+
+left to right direction
+
+actor seeds as s
+actor needs as n
+component site as site
+cloud "what't new?" as w
+
+s --> site
+site <-- n
+site - w
+
+@enduml

@@ -1,0 +1,82 @@
+# Project information
+site_name: 'rhincodon.jp'
+site_description: 'rhincodon.jp'
+site_author: 'kota@rhincodon.org'
+
+# Repo
+repo_name: 'rhincodon-org/rhincodon.jp'
+repo_url: 'https://github.com/rhincodon-org/rhincodon.jp'
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright (c) 2018 rhincodon.org'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 
+  name: 'material'
+  language: 'ja'
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Green'
+  logo:
+    icon: 'shared'
+#  feature:
+#    tabs: true
+#  direction: 'ltr'
+
+# Options
+extra:
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  social:
+    - type: 'home'
+      link: 'http://rhincodon.org'
+      prefix: 'far'
+    - type: 'link'
+      link: 'http://rhincodon.biz'
+      prefix: 'far'
+    - type: 'facebook'
+      link: ''
+    - type: 'twitter'
+      link: 'https://twitter.com/rhincodon_org'
+    - type: 'google-plus'
+      link: ''
+    - type: 'linkedin'
+      link: ''
+    - type: 'github'
+      link: 'https://github.com/rhincodon-org'
+    - type: 'slack'
+      link: ''
+    - type: 'slideshare'
+      link: ''
+    - type: 'jenkins'
+      link: 'http://rhincodon.jp/jenkins'
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+#  - plantuml
