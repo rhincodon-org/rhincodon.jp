@@ -56,6 +56,12 @@ extra:
       link: ''
     - type: 'jenkins'
       link: 'http://rhincodon.jp/jenkins'
+    - type: 'server'
+      link: 'https://secure.sakura.ad.jp/vps'
+      prefix: 'far'
+    - type: 'chart-line'
+      link: 'https://mackerel.io/signin'
+      prefix: 'fas'
 
 # Extensions
 markdown_extensions:
